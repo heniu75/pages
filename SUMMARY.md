@@ -6,6 +6,5 @@
   * [a Articles](anart.md)
   * [b First things first](chapter1.md)
   * [c Choices](choosing-a-static-hosting-site.md)
-
-## Part B
+* [Part A-2](part-a-2.md)
 

@@ -2,10 +2,10 @@
 
 ## Part A
 
-* [Profile](README.md)
-  * [AnArt](anart.md)
-* [2018-01](chapter1.md)
-* [Choosing a static hosting site](choosing-a-static-hosting-site.md)
+* [Part A-1](README.md)
+  * [a Articles](anart.md)
+  * [b First things first](chapter1.md)
+  * [c Choices](choosing-a-static-hosting-site.md)
 
 ## Part B
 

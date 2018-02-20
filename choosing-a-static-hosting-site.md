@@ -1,2 +1,2 @@
-Choosing a static host is challenging
+Choosing a static host is challenging. You don't say.
 

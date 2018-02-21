@@ -1,0 +1,4 @@
+site_name: My Mk Docs Site
+theme: cinder
+repo_url: https://myrepourl.com
+  # name: 'material'
